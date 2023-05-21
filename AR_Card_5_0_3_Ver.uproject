@@ -27,6 +27,10 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
