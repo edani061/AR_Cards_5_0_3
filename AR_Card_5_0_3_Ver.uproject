@@ -46,7 +46,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS"
+		"Android"
 	]
 }
